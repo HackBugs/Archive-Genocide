@@ -1,5 +1,7 @@
 # Archive-Genocide
 
+- https://t.me/addlist/EKE0aa6mVLw2M2Vl
+
 1. https://whofundedgenocide.com/
 2. https://archivegenocide.com/
 3. https://palestinelove.org/
