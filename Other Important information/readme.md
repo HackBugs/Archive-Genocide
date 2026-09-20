@@ -1,6 +1,3 @@
-```
-kosher Certification jewish symbol
-```
 
 ## 🥤 Central Beverage Company (CBC)
 
@@ -63,3 +60,8 @@ kosher Certification jewish symbol
 </td>
 </tr>
 </table>
+
+```
+kosher Certification jewish symbol
+```
+
