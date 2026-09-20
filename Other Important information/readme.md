@@ -1,3 +1,7 @@
+```
+kosher Certification jewish symbol
+```
+
 ## 🥤 Central Beverage Company (CBC)
 
 |   🔢   | 📌 Point                                 |         🔗 Source / Reference        |
