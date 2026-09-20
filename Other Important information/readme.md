@@ -5,3 +5,4 @@
 5. Franchise Israel factory (CBC)
 
 6. https://en.wikipedia.org/wiki/Category:Zionist_organizations_in_the_United_States
+7. https://forbes.co.il/e/rankings/2025-jewish-billionaires/
