@@ -1,4 +1,4 @@
-## 📚 Additional Research Sources
+## 📚 Additional Research Sources - Zionist Occupied Government (ZOG) - Zionist Organization of America (ZOA)
 
 |   🔢   | 📌 Resource                                    |         🗂️ Category        |                                                            🔗 Access                                                            |
 | :----: | :--------------------------------------------- | :-------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
