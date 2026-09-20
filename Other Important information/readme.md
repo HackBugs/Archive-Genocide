@@ -1,3 +1,13 @@
+## 📚 Additional Research Sources
+
+|   🔢   | 📌 Resource                                    |         🗂️ Category        |                                                            🔗 Access                                                            |
+| :----: | :--------------------------------------------- | :-------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
+| **07** | **Zionist Organizations in the United States** |      🇺🇸 Organizations     |               [**Wikipedia ↗**](https://en.wikipedia.org/wiki/Category:Zionist_organizations_in_the_United_States)              |
+| **08** | **Jewish Billionaires — 2025**                 |  💰 Wealth / Forbes Israel  |                             [**Open ↗**](https://forbes.co.il/e/rankings/2025-jewish-billionaires/)                             |
+| **09** | **Jewish Billionaires — 2026**                 |  💰 Wealth / Forbes Israel  |                             [**Open ↗**](https://forbes.co.il/e/rankings/2026-jewish-billionaires/)                             |
+| **10** | **U.S. & EU Jewish Political Organizations**   | 🏛️ Political Organizations | [**Quora ↗**](https://www.quora.com/What-is-a-list-of-Jewish-political-organizations-that-make-up-the-US-and-EU-Jewish-Lobbies) |
+
+---
 
 ## 🥤 Central Beverage Company (CBC)
 
@@ -11,17 +21,6 @@
 | **06** | **Israeli Franchise / Local Operations** |            🇮🇱 CBC Israel           |
 
 > **Note:** CBC's own history states that it began producing Coca-Cola in Israel in 1968 as the exclusive franchisee.
-
----
-
-## 📚 Additional Research Sources
-
-|   🔢   | 📌 Resource                                    |         🗂️ Category        |                                                            🔗 Access                                                            |
-| :----: | :--------------------------------------------- | :-------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
-| **07** | **Zionist Organizations in the United States** |      🇺🇸 Organizations     |               [**Wikipedia ↗**](https://en.wikipedia.org/wiki/Category:Zionist_organizations_in_the_United_States)              |
-| **08** | **Jewish Billionaires — 2025**                 |  💰 Wealth / Forbes Israel  |                             [**Open ↗**](https://forbes.co.il/e/rankings/2025-jewish-billionaires/)                             |
-| **09** | **Jewish Billionaires — 2026**                 |  💰 Wealth / Forbes Israel  |                             [**Open ↗**](https://forbes.co.il/e/rankings/2026-jewish-billionaires/)                             |
-| **10** | **U.S. & EU Jewish Political Organizations**   | 🏛️ Political Organizations | [**Quora ↗**](https://www.quora.com/What-is-a-list-of-Jewish-political-organizations-that-make-up-the-US-and-EU-Jewish-Lobbies) |
 
 ---
 
