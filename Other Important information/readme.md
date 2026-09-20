@@ -1,5 +1,5 @@
 ## 📚 Zionist Occupied Government (ZOG) - Zionist Organization of America (ZOA)
-### `Additional Research Sources`
+### `Additional Research Sources` - `Kosher Certification jewish symbol`
 
 |   🔢   | 📌 Resource                                    |         🗂️ Category        |                                                            🔗 Access                                                            |
 | :----: | :--------------------------------------------- | :-------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
@@ -60,8 +60,4 @@
 </td>
 </tr>
 </table>
-
-```
-kosher Certification jewish symbol
-```
 
