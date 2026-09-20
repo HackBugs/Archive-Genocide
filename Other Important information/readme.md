@@ -7,6 +7,8 @@
 | **08** | **Jewish Billionaires — 2025**                 |  💰 Wealth / Forbes Israel  |                             [**Open ↗**](https://forbes.co.il/e/rankings/2025-jewish-billionaires/)                             |
 | **09** | **Jewish Billionaires — 2026**                 |  💰 Wealth / Forbes Israel  |                             [**Open ↗**](https://forbes.co.il/e/rankings/2026-jewish-billionaires/)                             |
 | **10** | **U.S. & EU Jewish Political Organizations**   | 🏛️ Political Organizations | [**Quora ↗**](https://www.quora.com/What-is-a-list-of-Jewish-political-organizations-that-make-up-the-US-and-EU-Jewish-Lobbies) |
+| **11** | **Israeli-occupied territories**   | Israeli-occupied | [**Open ↗**](https://en.wikipedia.org/wiki/Israeli-occupied_territories) |
+
 
 ---
 
